@@ -1,9 +1,10 @@
 import React from "react";
+import Main from "./components/Main";
 
 const App = () => {
   return (
     <div>
-      <h1 className="bg-red-600">Hola Mundo</h1>
+      <Main />
     </div>
   );
 };
